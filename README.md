@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swift-man&show_icons=true&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swift-man&show_icons=true&theme=onedark)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 ## Korean Chess Top 0.5%
