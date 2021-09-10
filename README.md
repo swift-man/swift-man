@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 )](https://github.com/anuraghazra/github-readme-stats)
 
 ## Korean Chess Top 0.5%
-![Image](/images/jangi.png){: width="50%" height="50%"}
+<img src="/images/jangi.png" alt="drawing" width="50%"/>
