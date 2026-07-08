@@ -4,7 +4,7 @@ Apps
 
 | ReactionRate | WordRush |
 | :---: | :---: |
-| <a href="https://apps.apple.com/app/id6445873027"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/39/79/3c3979e4-b42e-ec36-2879-cc48fa4428fc/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/400x400ia-75.webp" width="128"/></a> | <a href="https://apps.apple.com/app/id6778007028"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/fa/9d/89fa9dfb-a21f-5a69-b0e2-e30076912c84/Placeholder.mill/400x400bb-75.webp" width="128"/></a> |
+| <a href="https://apps.apple.com/app/id6445873027"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/39/79/3c3979e4-b42e-ec36-2879-cc48fa4428fc/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/400x400ia-75.webp" width="128"/></a> | <a href="https://apps.apple.com/app/id6778007028"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/ee/f3/40eef3ab-8337-0739-d60a-3c1f6a911e1a/Placeholder.mill/400x400bb-75.webp" width="128"/></a> |
 | [ReactionRate](https://apps.apple.com/app/id6445873027) | [WordRush](https://apps.apple.com/app/id6778007028) |
 
 tvOS Apps
