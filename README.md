@@ -19,7 +19,7 @@ macOS Apps
 | <a href="https://apps.apple.com/app/id6788854131"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a2/5e/01a25e91-0ac5-926b-c519-2572ae536da9/Placeholder.mill/400x400bb-75.webp" width="128"/></a> |
 | [AssetScaler](https://apps.apple.com/app/id6788854131) |
 
-Kakaotalk Bot
+Kakaotalk AI Chat Bot
 | Rabbit | 
 | :---: | 
 | <a href="https://bot.gorani.me"><img src="/images/rabbit.png" width="128"/></a> |
