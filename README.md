@@ -13,6 +13,13 @@ tvOS Apps
 | <a href="https://apps.apple.com/app/id6786789129"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/21/1e/ce211e4f-4010-f16e-b69f-4663f133645f/App_Icon-marketing.lsr/400x226bb.webp" width="128"/></a> |
 | [Andromeda 17K](https://apps.apple.com/app/id6786789129) |
 
+macOS Apps
+| AssetScaler | 
+| :---: | 
+| <a href="https://apps.apple.com/app/id6788854131"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/a2/5e/01a25e91-0ac5-926b-c519-2572ae536da9/Placeholder.mill/400x400bb-75.webp" width="128"/></a> |
+| [AssetScaler](https://apps.apple.com/app/id6788854131) |
+
+
 [![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swift-man&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
 
