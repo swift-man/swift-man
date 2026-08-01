@@ -7,7 +7,7 @@ iOS Apps
 | <a href="https://apps.apple.com/app/id6445873027"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/39/79/3c3979e4-b42e-ec36-2879-cc48fa4428fc/AppIcon-0-0-1x_U007epad-0-sRGB-85-220.png/400x400ia-75.webp" width="128"/></a> | <a href="https://apps.apple.com/app/id6778007028"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/ee/f3/40eef3ab-8337-0739-d60a-3c1f6a911e1a/Placeholder.mill/400x400bb-75.webp" width="128"/></a> |
 | [ReactionRate](https://apps.apple.com/app/id6445873027) | [WordRush](https://apps.apple.com/app/id6778007028) |
 
-tvOS Apps
+Apple TV Apps
 | Andromeda 17K | 
 | :---: | 
 | <a href="https://apps.apple.com/app/id6786789129"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/21/1e/ce211e4f-4010-f16e-b69f-4663f133645f/App_Icon-marketing.lsr/400x226bb.webp" width="128"/></a> |
