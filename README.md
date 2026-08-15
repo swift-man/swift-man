@@ -25,9 +25,5 @@ Kakaotalk AI Chat Bot
 | <a href="https://bot.gorani.me"><img src="/images/rabbit.png" width="128"/></a> |
 | [Rabbit](https://bot.gorani.me) |
 
-
-[![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swift-man&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
-
 ## Korean Chess Top 0.5%
 <img src="/images/jangi-2021-11.png" alt="drawing" width="50%"/>
